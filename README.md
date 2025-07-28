@@ -11,12 +11,12 @@ Lerne die Grundlagen von HTML, CSS und JavaScript, indem du eine kleine Webanwen
 
 - Öffne die Datei `index.html` und finde heraus, wie die Seite aufgebaut ist.
 - Füge eine Überschrift (`<h1>`) mit dem Text "Nutzloses Wissen" ein.
-- Erstelle in `index.html` ein leeres `<div>` mit der `id="fact"`.
-- Schreibe in `styles.css` eine Regel, die die Hintergrundfarbe der Seite ändert.
+- Erstelle im `index.html` ein leeres `<div>` mit der `id="fact"`.
+- Schreibe im `styles.css` eine Regel, die die Hintergrundfarbe der Seite ändert.
 
 ### Mittlere Aufgaben
 
-- Füge in `index.html` einen Button mit der Aufschrift "Neuen Fakt laden" hinzu.
+- Füge im `index.html` einen Button mit der Aufschrift "Neuen Fakt laden" hinzu.
 - Sorge dafür, dass beim Klick auf den Button ein neuer Fakt geladen und angezeigt wird.
 - Gestalte das `<div id="fact">` mit CSS (z\.B\. Rahmen, Abstand, Schriftgrösse).
 
