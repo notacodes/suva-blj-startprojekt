@@ -5,8 +5,6 @@ Dieses Projekt zeigt zufällige, nutzlose Fakten auf Deutsch an.
 
 Lerne die Grundlagen von HTML, CSS und JavaScript, indem du eine kleine Webanwendung erstellst und erweiterst.
 
----
-
 ## Aufgaben
 
 ### Einfache Aufgaben
@@ -31,7 +29,6 @@ Lerne die Grundlagen von HTML, CSS und JavaScript, indem du eine kleine Webanwen
 
 Du kannst diese Aufgaben auch auslassen oder durch eigene Ideen ersetzen.
 
----
 ## Optional: Projekt auf Vercel deployen
 
 Wenn du möchtest, kannst du deine fertige Anwendung kostenlos auf [Vercel](https://vercel.com/) veröffentlichen:
