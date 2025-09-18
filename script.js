@@ -33,8 +33,3 @@ async function showFact() {
 window.addEventListener('DOMContentLoaded', () => {
     showFact();
 });
-
-// Eventlistener für den Button
-document.getElementById("newFactBtn").addEventListener("click", () => {
-    showFact();
-});
